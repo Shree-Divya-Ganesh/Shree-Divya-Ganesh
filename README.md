@@ -1,5 +1,10 @@
 ## FB PROPHET ALGORITHM 
 
+Time Series Forecasting is one such Machine learning model which needs more analysis of the Trends and Seasonal variartions that occur in the data. 
+One such Time Series Forecasting model is FB Prophet which is known for its fast and accurate results when forecasted. 
+
+Listed below are the topics covered.
+
   #### TABLE OF CONTENTS
 
           1. Importing Necessary Python Libraries
